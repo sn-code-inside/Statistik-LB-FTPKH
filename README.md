@@ -1,6 +1,6 @@
 # Statistik-LB-FTPKH
-
-Hier finden Sie die R Codes zum Lehrbuch [*Fahrmeir et al., Statistik, 9. Aufl.*](https://link.springer.com/book/10.1007/978-3-662-67526-7)
+Hier finden Sie die R Codes zum Lehrbuch [*Fahrmeir et al., Statistik, 9. Aufl.*](https://link.springer.com/book/10.1007/978-3-662-67526-7) (Springer Spektrum, 2023).
+![Cover image](978-3-662-67526-7.jpg)
 
 Hinweise zur Benutzung des R Pakets
 
