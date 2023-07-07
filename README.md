@@ -1,4 +1,6 @@
-# Statistik9
+# Statistik-LB-FTPKH
+
+Hier finden Sie die R Codes zum Lehrbuch "Fahrmeir et al., Statistik, 9. Aufl."
 
 Hinweise zur Benutzung des R Pakets
 
@@ -9,3 +11,4 @@ Die pdf-Datei enthält die Liste aller Grafiken und Beispiele mit Hinweisen, um 
 Einzelne Grafiken können dann gezeichnet werden, z.B. 
 abb2.4()
 erzeugt Abbildung 2.4 im Buch (Diagramm der Nettomieten)
+
