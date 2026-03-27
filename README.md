@@ -1,7 +1,7 @@
 # Statistik-LB-FTPKH
 Hier finden Sie die R-Codes zum Lehrbuch [Fahrmeir et al., Statistik, 9. Aufl.](https://link.springer.com/book/10.1007/978-3-662-67526-7) (Springer Spektrum, 2023).
 
-<img src="978-3-662-67526-7.jpg"  width="20%" height="20%">
+<img src="978-3-662-67526-7.jpg"  width="20%" height="20%"> <img src="978-3-662-73271-7.jpg"  width="15%" height="15%">
 
 **Hinweise zur Benutzung des R-Pakets:**
 
@@ -13,8 +13,8 @@ Einzelne Grafiken können dann gezeichnet werden, z.B.
 abb2.4()
 erzeugt Abbildung 2.4 im Buch (Diagramm der Nettomieten)
 
-**Hinweis zum passenden Arbeitsbuch**
+**Hinweis zum passenden *Arbeits*buch:**
 
-Das ergänzende [Arbeitsbuch Statistik, 6. Aufl. (Lang et al., Springer Spektrum, 2026)](https://link.springer.com/book/9783662732717) ist inhaltlich und strukturell auf das Lehrbuch abgestimmt: Alle 99 Aufgaben aus dem Lehrbuch werden hier ausführlich gelöst und durch Verweise eng mit diesem verknüpft.
+Das ergänzende [*Arbeits*buch Statistik, 6. Aufl. (Lang et al., Springer Spektrum, 2026)](https://link.springer.com/book/9783662732717) ist inhaltlich und strukturell auf das *Lehr*buch abgestimmt: Alle 99 Aufgaben aus dem Lehrbuch werden hier ausführlich gelöst und durch Verweise eng mit diesem verknüpft.
 
-<img src="978-3-662-73271-7.jpg"  width="15%" height="15%">
+
